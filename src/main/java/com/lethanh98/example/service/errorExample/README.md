@@ -3,9 +3,9 @@
 
 ```
 ┌─────┐
-|  classA defined in file [C:\project\me\ArchTypeForDemoJavaSimple\target\generated-sources\ExampleFixCircularSpring\target\classes\com\lethanh98\example\service\errorExample\ClassA.class]
+|  classA defined in file [ExampleFixCircularSpring\target\classes\com\lethanh98\example\service\errorExample\ClassA.class]
 ↑     ↓
-|  classB defined in file [C:\project\me\ArchTypeForDemoJavaSimple\target\generated-sources\ExampleFixCircularSpring\target\classes\com\lethanh98\example\service\errorExample\ClassB.class]
+|  classB defined in file [ExampleFixCircularSpring\target\classes\com\lethanh98\example\service\errorExample\ClassB.class]
 └─────┘
 ```
 
