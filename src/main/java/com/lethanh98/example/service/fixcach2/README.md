@@ -1,0 +1,2 @@
+- Với lỗi ở trên, sử dụng Inject trên method setter chúng ta sẽ có thể fix được, 
+- Spring sẽ trì hoàn việc inject tới lúc sau khi class đã được khởi tạo xong

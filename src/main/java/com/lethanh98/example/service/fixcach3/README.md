@@ -1,0 +1,3 @@
+- Cách này chúng ta vẫn sử dụng Constructor để inject, tuy nhiên chúng ta sẽ sử dụng @lazy.
+- Với @lazy sẽ theo proxy pattern, Spring sẽ trì hoãn việc inject bean thật sự cho đến lần đầu tiên chúng ta sử dụng.
+- Lúc inject bean khi khởi tạo là chúng ta đang inject một proxy
